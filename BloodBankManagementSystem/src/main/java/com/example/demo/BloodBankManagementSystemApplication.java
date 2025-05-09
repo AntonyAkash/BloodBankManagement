@@ -8,7 +8,7 @@ public class BloodBankManagementSystemApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BloodBankManagementSystemApplication.class, args);
-		System.out.println("thanks god");
+		System.out.println("thanks god"); 
 	}
 
 }
