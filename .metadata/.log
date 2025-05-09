@@ -99,3 +99,6 @@ org.eclipse.jgit.errors.TransportException: https://github.com/AntonyAkash/Blood
 
 !ENTRY org.eclipse.egit.ui 4 0 2025-05-09 13:27:33.086
 !MESSAGE Can't connect to any repository: https://github.com/AntonyAkash/BloodBankManagement.git (https://github.com/AntonyAkash/BloodBankManagement.git: not authorized)
+
+!ENTRY org.eclipse.equinox.security 1 0 2025-05-09 13:30:28.842
+!MESSAGE New keyring password generated. 
